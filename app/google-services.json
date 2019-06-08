@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "426438279320",
+    "firebase_url": "https://panicsensor.firebaseio.com",
+    "project_id": "panicsensor",
+    "storage_bucket": "panicsensor.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:426438279320:android:9dc7cd8577bf24ae",
+        "android_client_info": {
+          "package_name": "com.recollective.panicsensor"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "426438279320-igmv0hm0j7qnbav1tgo2ib08kj2degkp.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.recollective.panicsensor",
+            "certificate_hash": "a0e50c4d548590018050d7078e8a45a30736fe62"
+          }
+        },
+        {
+          "client_id": "426438279320-1c0a3a0g5v7dg8q1u2bb71vadjo8mrte.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCUyg5det1eeWFKAS3b5XlG3wtjFHoxCNo"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "426438279320-1c0a3a0g5v7dg8q1u2bb71vadjo8mrte.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
